@@ -1,0 +1,2 @@
+Supervised[[:space:]]Machine[[:space:]]Learning[[:space:]]Classification/module6/final[[:space:]]project/titanic/evaluation_results/* filter=lfs diff=lfs merge=lfs -text
+Supervised[[:space:]]Machine[[:space:]]Learning[[:space:]]Classification/module6/final[[:space:]]project/titanic/saved_models/*.pth filter=lfs diff=lfs merge=lfs -text
