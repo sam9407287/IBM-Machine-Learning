@@ -1,5 +1,4 @@
 Deep[[:space:]]Learning[[:space:]]and[[:space:]]Reinforcement[[:space:]]Learning/module2/LoadingImages/flower_photos/**/*.jpg filter=lfs diff=lfs merge=lfs -text
-Deep[[:space:]]Learning[[:space:]]and[[:space:]]Reinforcement[[:space:]]Learning/module1/05b_LAB_Intro_NN/digits.csv filter=lfs diff=lfs merge=lfs -text
 Supervised[[:space:]]Machine[[:space:]]Learning[[:space:]]Classification/module6/final[[:space:]]project/titanic/evaluation_results/* filter=lfs diff=lfs merge=lfs -text
 Supervised[[:space:]]Machine[[:space:]]Learning[[:space:]]Classification/module6/final[[:space:]]project/titanic/saved_models/*.joblib filter=lfs diff=lfs merge=lfs -text
 Unsupervised[[:space:]]Machine[[:space:]]Learning/module6/Non-Negative_Matrix_Factorization/images/images/*.jpg filter=lfs diff=lfs merge=lfs -text
